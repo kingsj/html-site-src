@@ -1,0 +1,198 @@
+[
+    {
+	"artist": "various",
+	"artist_display": "Various",
+	"title": "Sylvia Beech",
+	"product_id": null,
+	"cat_id": "Y001CD",
+	"formats": ["CD"],
+	"date": "1998-01-01",
+	"available": false,
+	"notes": "Release under Eidola Records forerunner Y... Records",
+    },
+    {
+	"artist": "various",
+	"artist_display": "various",
+	"title": "Unkown",
+	"product_id": null,
+	"cat_id": "E1CA",
+	"formats": ["Cassette"],
+	"date": "2000-01-01",
+	"available": false,
+	"notes": "Compilation tape feat. Christmas Tranquility, Vacuity Basement (pos), Black and White Progression(pos), Boney King of Nowhere(pos)"
+	
+    },
+    {
+	"artist": "vacuity-basement",
+	"artist_display": "Vacuity Basement",
+	"title": "Somewhere I Have Never Travelled / Information",
+	"product_id": null,
+	"cat_id": "E002CA",
+	"formats": ["Cassette"],
+	"date": "2001-01-01",
+	"available": false,
+	"notes": "Artwork by Joseph Martin"
+    },
+    {
+	"artist": "christmas-tranquility",
+	"artist_display": "Christmas Tranquility",
+	"title": "After Freezing in the Snow We Did This",
+	"product_id": null,
+	"cat_id": "E003CD",
+	"formats": ["CD"],
+	"date": "2001-01-01",
+	"available": false,
+	"notes": "A copy of this album is available form the [Joey Chainsaw Archive](https://joeychainsawarchive.bandcamp.com/album/after-freezing-in-snow-we-did-this)"
+    },
+    {
+	"artist": "autotistic",
+	"artist_display": "Autotistic",
+	"title": "Gist",
+	"product_id": null,
+	"cat_id": "E004CD",
+	"formats": ["CD"],
+	"date": "2001-01-01",
+	"available": false,
+	"notes": ""
+    },
+    {
+	"artist": "various",
+	"artist_display": "Various",
+	"title": "The Three Of Us Together and Apart",
+	"product_id": null,
+	"cat_id": "E006CD",
+	"formats": ["CD"],
+	"date": "2001-01-01",
+	"available": false,
+	"notes": "This releases features recording of various combinations of Matthew Chandler, Neil Daoud and Joseph Martin. The tracks featuring Joe are available from [https://joeychainsawarchive.bandcamp.com/album/the-three-of-us-together-and-apart](https://joeychainsawarchive.bandcamp.com/album/the-three-of-us-together-and-apart)"
+    },
+    
+    {
+	"artist": "autotistic",
+	"artist_display": "Autotistic",
+	"title": "Approaching Invisible",
+	"product_id": null,
+	"cat_id": "E007CD",
+	"formats": ["CD"],
+	"date": "2001-01-01",
+	"available": false,
+	"notes": ""
+    },
+    
+    {
+	"artist": "autotistic",
+	"artist_display": "Autotistic",
+	"title": "EP1",
+	"product_id": null,
+	"cat_id": "E009CD",
+	"formats": ["CD"],
+	"date": "2001-01-01",
+	"available": false,
+	"notes": ""
+    },
+
+    
+    {
+	"artist": "autotistic",
+	"artist_display": "Autotistic",
+	"title": "EP2",
+	"product_id": null,
+	"cat_id": "E010CD",
+	"formats": ["CD"],
+	"date": "2001-01-01",
+	"available": false,
+	"notes": ""
+    },
+
+    {
+	"artist": "sean-james-king",
+	"artist_display": "Sean James King",
+	"title": "Lo-Fi Disco Blues",
+	"product_id": null,
+	"cat_id": "E011CD",
+	"formats": ["CD"],
+	"date": "2002-01-01",
+	"available": false,
+	"notes": ""
+    },
+    {
+	"artist": "autotistic",
+	"artist_display": "Autotistic",
+	"title": "Postmark",
+	"product_id": null,
+	"cat_id": "E0012CD",
+	"formats": ["CD"],
+	"date": "2002",
+	"available": false,
+	"notes": ""
+    },
+
+    {
+	"artist": "yo-zushi",
+	"artist_display": "Yo Zushi",
+	"title": "Bye Bye Blackbird",
+	"product_id": "536658",
+	"cat_id": "E001",
+	"formats": ["CD"],
+	"date": "2014-05-01",
+	"available": true
+    },
+    {
+	"artist": "yo-zushi",
+	"artist_display": "Yo Zushi",
+	"title": "It Never Entered My Mind",
+	"product_id": "532595",
+	"cat_id": "E002",
+	"formats": ["CD", "Digital"],
+	"date": "2015-01-19",
+	"available": true
+    },
+    {
+	"artist": "vacuity-basement",
+	"title": "201200",
+	"product_id": "536659",
+	"cat_id": "E003",
+	"formats": ["CD"],
+	"date": "2014-11-01",
+	"available": true
+    },
+    {
+	"artist": "yo-zushi",
+	"artist_display": "Yo Zushi",
+	"title": "Blue Christmases",
+	"product_id": "537925",
+	"cat_id": "E004",
+	"date": "2014-12-01",
+	"available": false
+    },
+    {
+	"artist": "yo-zushi",
+	"artist_display": "Yo Zushi",
+	"title": "Miskatonic Valentine/Careless Love/I Can’t Wait To See Her Again",
+	"product_id": "556798",
+	"cat_id": "E005",
+	"formats": ["Digital"],
+	"date": "2015-08-10",
+	"available": true,
+	"notes": ""
+    },
+    {
+	"artist": "sean-james-king",
+	"title": "Lofi Disco Blues",
+	"product_id": "532673",
+	"cat_id": "E006",
+	"formats": ["CD"],
+	"date": "2014-10-04",
+	"available": true
+    },
+    {
+	"artist": "yo-zushi",
+	"artist_display": "Yo Zushi",
+	"title": "Happy New Year",
+	"product_id": "564376",
+	"cat_id": "E007",
+	"formats": ["Digital"],
+	"date": "2015-12-01",
+	"available": true
+    }
+]

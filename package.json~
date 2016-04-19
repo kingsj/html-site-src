@@ -1,0 +1,29 @@
+{
+  "name": "html-js",
+  "version": "1.0.0",
+  "description": "Eidola Records Client Side Web Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "brfs": "~1.4.1",
+    "browserify": "~11.2.0",
+    "globby": "~3.0.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "~2.6.0",
+    "gulp-declare": "~0.3.0",
+    "gulp-define-module": "~0.1.4",
+    "gulp-handlebars": "~4.0.0",
+    "gulp-less": "~3.0.5",
+    "gulp-rename": "~1.2.2",
+    "gulp-smoosher": "0.0.9",
+    "gulp-wrap": "~0.11.0",
+    "handlebars": "^4.0.5",
+    "through2": "~2.0.0",
+    "vinyl-buffer": "~1.0.0",
+    "vinyl-source-stream": "~1.1.0"
+  }
+}

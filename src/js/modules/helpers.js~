@@ -1,0 +1,9 @@
+var handlebars = require('handlebars'),
+    _ = require('lodash');
+
+handlebars.registerHelper('kebabCase', function(str) {
+    return _.kebabCase(str);
+});
+
+
+module.export = handlebars;
