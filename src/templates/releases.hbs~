@@ -1,3 +1,0 @@
-{{#each .}}
-<div><a href="/#!/artists/{{artist}}">{{artist_display}}</a>: <a href="/#!/release/{{title}}">{{title}}</a></div>
-{{/each}}
