@@ -145,16 +145,19 @@
 	"cat_id": "E002",
 	"formats": ["CD", "Digital"],
 	"date": "2015-01-19",
-	"available": true
+	"available": true,
+	"price": 5.00
     },
     {
 	"artist": "vacuity-basement",
+	"artist_display": "Vacuity Basement",
 	"title": "201200",
 	"product_id": "536659",
 	"cat_id": "E003",
 	"formats": ["CD"],
 	"date": "2014-11-01",
-	"available": true
+	"available": true,
+	"price": 5.00
     },
     {
 	"artist": "yo-zushi",
@@ -173,7 +176,7 @@
 	"cat_id": "E005",
 	"formats": ["Digital"],
 	"date": "2015-08-10",
-	"available": true,
+	"available": false,
 	"notes": ""
     },
     {
@@ -183,7 +186,8 @@
 	"cat_id": "E006",
 	"formats": ["CD"],
 	"date": "2014-10-04",
-	"available": true
+	"available": true,
+	"price": 5.00
     },
     {
 	"artist": "yo-zushi",
@@ -193,6 +197,6 @@
 	"cat_id": "E007",
 	"formats": ["Digital"],
 	"date": "2015-12-01",
-	"available": true
+	"available": false
     }
 ]

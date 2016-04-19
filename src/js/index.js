@@ -3,6 +3,9 @@ var releases = require('../data/releases.json'),
     _ = require('lodash');
 
 
+// Sort Releases by Date and then Cat_ID newest to oldests
+releases = _.orderBy(releases, ['date', 'cat_id'], ['desc','desc']);
+
 var el = document.getElementById('main');
 
 
