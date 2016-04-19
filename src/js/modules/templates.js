@@ -9,17 +9,17 @@ var Handlebars = require("./helpers");
 exports["releases"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3=container.escapeExpression, alias4="function";
 
-  return "    <div>\n	<h2><a href=\"/#!/releases/"
+  return "    <div class=\"box\">\n	<h2 class=\"artist-title\"><a href=\"/#!/releases/"
     + alias3((helpers.kebabCase || (depth0 && depth0.kebabCase) || alias2).call(alias1,(depth0 != null ? depth0.title : depth0),{"name":"kebabCase","hash":{},"data":data}))
-    + "\">"
+    + "\" class=\"artist-title-style\">"
     + alias3(((helper = (helper = helpers.title || (depth0 != null ? depth0.title : depth0)) != null ? helper : alias2),(typeof helper === alias4 ? helper.call(alias1,{"name":"title","hash":{},"data":data}) : helper)))
-    + "</a></h2>\n	<div>Artist: <a href=\"/#!/artists/"
+    + "</a></h2>\n	<div class=\"artist_cart\">Artist: <a href=\"/#!/artists/"
     + alias3(((helper = (helper = helpers.artist || (depth0 != null ? depth0.artist : depth0)) != null ? helper : alias2),(typeof helper === alias4 ? helper.call(alias1,{"name":"artist","hash":{},"data":data}) : helper)))
-    + "\">"
+    + "\" class=\"artist-display-style\">"
     + alias3(((helper = (helper = helpers.artist_display || (depth0 != null ? depth0.artist_display : depth0)) != null ? helper : alias2),(typeof helper === alias4 ? helper.call(alias1,{"name":"artist_display","hash":{},"data":data}) : helper)))
     + "</a></div>\n"
     + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.available : depth0),{"name":"if","hash":{},"fn":container.program(2, data, 0),"inverse":container.program(7, data, 0),"data":data})) != null ? stack1 : "")
-    + "	\n    </div>\n";
+    + "\n    </div>\n";
 },"2":function(container,depth0,helpers,partials,data) {
     var stack1;
 
@@ -27,13 +27,13 @@ exports["releases"] = Handlebars.template({"1":function(container,depth0,helpers
 },"3":function(container,depth0,helpers,partials,data) {
     var helper;
 
-  return "		<div><a href=\"javascript:;\">Add to Cart</a> £"
+  return "		<div class=\"add_to_cart\"><a href=\"javascript:;\">Add to Cart</a> £"
     + container.escapeExpression(((helper = (helper = helpers.price || (depth0 != null ? depth0.price : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : {},{"name":"price","hash":{},"data":data}) : helper)))
     + "</div>\n";
 },"5":function(container,depth0,helpers,partials,data) {
-    return "		<div><strong>SOLD OUT</strong></div>	\n";
+    return "		<div class=\"sold_out\"><strong>SOLD OUT</strong></div>\n";
 },"7":function(container,depth0,helpers,partials,data) {
-    return "	    <div><strong>SOLD OUT</strong></div>\n";
+    return "	    <div class=\"sold_out\"><strong>SOLD OUT</strong></div>\n";
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1;
 

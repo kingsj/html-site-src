@@ -20,7 +20,7 @@
 	"date": "2000-01-01",
 	"available": false,
 	"notes": "Compilation tape feat. Christmas Tranquility, Vacuity Basement (pos), Black and White Progression(pos), Boney King of Nowhere(pos)"
-	
+
     },
     {
 	"artist": "vacuity-basement",
@@ -66,7 +66,7 @@
 	"available": false,
 	"notes": "This releases features recording of various combinations of Matthew Chandler, Neil Daoud and Joseph Martin. The tracks featuring Joe are available from [https://joeychainsawarchive.bandcamp.com/album/the-three-of-us-together-and-apart](https://joeychainsawarchive.bandcamp.com/album/the-three-of-us-together-and-apart)"
     },
-    
+
     {
 	"artist": "autotistic",
 	"artist_display": "Autotistic",
@@ -78,7 +78,7 @@
 	"available": false,
 	"notes": ""
     },
-    
+
     {
 	"artist": "autotistic",
 	"artist_display": "Autotistic",
@@ -91,7 +91,7 @@
 	"notes": ""
     },
 
-    
+
     {
 	"artist": "autotistic",
 	"artist_display": "Autotistic",
@@ -181,6 +181,7 @@
     },
     {
 	"artist": "sean-james-king",
+	"artist_display": "Sean James King",
 	"title": "Lofi Disco Blues",
 	"product_id": "532673",
 	"cat_id": "E006",
